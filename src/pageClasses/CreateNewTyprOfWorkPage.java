@@ -20,7 +20,7 @@ public class CreateNewTyprOfWorkPage {
 	
 	public void creatingNewWork()
 	{
-		nameTextBox.sendKeys("Testing19");
+		nameTextBox.sendKeys("Testing20");
 		createTypeofWorkButton.click();
 	}
 }
